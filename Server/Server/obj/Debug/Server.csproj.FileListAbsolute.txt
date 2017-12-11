@@ -1,0 +1,7 @@
+C:\Users\hien\Desktop\[Sharecode.vn] Source code do an chat trong mang lan C# full code   bao cao(2)\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Server\Server\obj\Debug\Server.exe
+C:\Users\hien\Desktop\[Sharecode.vn] Source code do an chat trong mang lan C# full code   bao cao(2)\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Server\Server\obj\Debug\Server.pdb
+C:\Users\hien\Desktop\[Sharecode.vn] Source code do an chat trong mang lan C# full code   bao cao(2)\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Server\Server\bin\Debug\Server.exe
+C:\Users\hien\Desktop\[Sharecode.vn] Source code do an chat trong mang lan C# full code   bao cao(2)\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Server\Server\bin\Debug\Server.pdb
+C:\Users\hien\Desktop\[Sharecode.vn] Source code do an chat trong mang lan C# full code   bao cao(2)\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Server\Server\obj\Debug\Server.frmServer.resources
+C:\Users\hien\Desktop\[Sharecode.vn] Source code do an chat trong mang lan C# full code   bao cao(2)\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\hien\Desktop\[Sharecode.vn] Source code do an chat trong mang lan C# full code   bao cao(2)\[Sharecode.vn] Source code do an chat trong mang lan C# full code + bao cao\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
